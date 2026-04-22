@@ -1,7 +1,7 @@
 
 <div align="center">
 
- # Tanish Panwar
+ # BVR4J
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=AI%2FML+Student+%7C+Product+Builder+%7C+Founder;Building+Behaviour-Driven+Systems;Financial+Simulation+%7C+AI-Driven+Products;Scalable+Web+Platforms+%7C+Conversion-First+UI)](https://git.io/typing-svg)
 
