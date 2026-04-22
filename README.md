@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/tanish--panwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-panwar-706734381)
 [![Instagram](https://img.shields.io/badge/@_saini.tanish-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_saini.tanish/)
-[![GitHub](https://img.shields.io/badge/panwartanish-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/panwartanish)
+[![GitHub](https://img.shields.io/badge/bvr4j-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bvr4j)
 [![Portfolio](https://img.shields.io/badge/NOX_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://buildwithnox.framer.website/)
 
 </div>
