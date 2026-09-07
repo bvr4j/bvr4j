@@ -79,35 +79,6 @@ I build:
   
 ---
 
-## Featured Project
-
-💰 Dhan-Setu — Behaviour-Driven Financial Simulation
-
-5-year financial decision simulation platform focused on behavioural learning and resilience building. Designed for Students and Farmers — teaches budgeting, savings, and credit discipline through real-life money scenarios.
-
-Stack: TypeScript React TailwindCSS
-Status: Active
-
----
-
-🛡️ Legit-AI — AI Legitimacy Checker
-
-AI-powered tool to detect and validate authenticity of digital content and entities.
-
-Stack: TypeScript
-Status: Active
-
----
-
-📊 SubSentry — Subscription Tracker
-
-Secure subscription tracker designed to stop "subscription creep." Features a Reality Check dashboard to visualize monthly recurring costs and renewal dates.
-
-Stack: TypeScript React Vite
-Status: Production-ready
-
----
-
 <div align="center">
 
 ## Stats
