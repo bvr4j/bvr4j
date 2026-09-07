@@ -88,7 +88,7 @@ I build:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bvr4j&theme=dark&hide_border=true&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=00d2ff&dates=888888)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bvr4j&bg_color=0d1117&color=00d2ff&line=0a3d62&point=00d2ff&hide_border=true&area=true&area_color=0a3d62)](https://github.com/panwartanish)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bvr4j&bg_color=0d1117&color=00d2ff&line=0a3d62&point=00d2ff&hide_border=true&area=true&area_color=0a3d62)](https://github.com/bvr4j)
 
 </div>
 
